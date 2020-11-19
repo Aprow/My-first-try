@@ -1,2 +1,2 @@
 # My-first-try
-My first try to create a game.This is a game that likes Enter the gungeon.
+A 2D shooting game made by python
